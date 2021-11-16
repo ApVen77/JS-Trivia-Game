@@ -107,8 +107,10 @@ for (i=0; i<books.length; i++) {
         document.write (' You still need to check out' + bookInfo + '<br>');
     }
 }; 
+
  var greet= "hello";
  console.log (greet); 
+
 
 // var books= [
 //     {title: "Steps to Academic Writing",
